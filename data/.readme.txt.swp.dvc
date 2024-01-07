@@ -1,0 +1,5 @@
+outs:
+- md5: 1952688996448eff123a05930f565945
+  size: 4096
+  hash: md5
+  path: .readme.txt.swp
